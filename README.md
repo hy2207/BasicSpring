@@ -1,5 +1,6 @@
 # BasicSpring
 includes basic theory & project of spring/spring-boot
+(refer to fast campus (https://fastcampus.co.kr) 스프링입문 - 예상국님 강의)
 
 * Inversion Of Control (IOC; 제어의 역전)
 : 객체 생성을 개발자가 관리하는 것이 아닌 Spring Container에 맡김 --> 프레임워크로 제어의 객체 관리의 권한이 넘어감
